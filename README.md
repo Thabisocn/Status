@@ -20,10 +20,12 @@ $ Taking a list of subdomains and filtering .
 ```
 # Standalone
 
+![Screenshot from 2024-01-19 07-16-05](https://github.com/Thabisocn/Status/assets/55186310/78f0df4e-c085-4e3a-a5e5-a80fe440e0ea)
 
 # With  Subfinder
 
 https://github.com/projectdiscovery/subfinder
 
+![Screenshot from 2024-01-19 07-14-44](https://github.com/Thabisocn/Status/assets/55186310/1f1d1000-83bb-4832-ab61-e1b2e9d65aa2)
 
 
